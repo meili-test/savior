@@ -515,17 +515,17 @@
   }
 
   GM_addStyle(`
-  .notes .note .timeline-content.collapse-item {
+  .notes .note.collapse-item .timeline-content {
     height: 100px;
     background-color: #67c23a;
     overflow: hidden;
   }
 
-  .notes .note .timeline-content.collapse-item * {
+  .notes .note.collapse-item .timeline-content * {
     background-color: #67c23a;
   }
 
-  .notes-list .note .timeline-content.highest-level-bug:not(.collapse-item) {
+  .notes-list .note.highest-level-bug:not(.collapse-item) .timeline-content {
     background: #f56c6c;
   }
 
