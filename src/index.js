@@ -8,8 +8,7 @@
 // @match        https://gitpd.paodingai.com/*/issues/*
 // @grant        GM_addStyle
 // @grant        unsafeWindow
-// @downloadURL https://update.greasyfork.org/scripts/381958/Gitlab%20Issues%20Track.user.js
-// @updateURL https://update.greasyfork.org/scripts/381958/Gitlab%20Issues%20Track.meta.js
+// @downloadURL  https://github.com/Priestch/savior/blob/master/src/index.js
 // ==/UserScript==
 
 (function () {
